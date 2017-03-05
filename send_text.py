@@ -1,11 +1,14 @@
 from twilio.rest import TwilioRestClient
+# from twilio import rest
 
 # Your Account Sid and Auth Token from twilio.com/user/account
 # What python keyword Python means?
 
 account_sid = "ACbb20b4855d697de59752b9122f6e5aba"
 auth_token = "afb5815a604e708e79b684959c9c27a2"
-client = TwilioRestClient(account_sid, auth_token)
+client = TwilioRestClient(account_sid, auth_token) # TwilioRestClient is a Class
+
+# client = rest.TwilioRestClient(account_sid, auth_token)
 
 message = client.sms.messages.create (
 	body = "Hey Twilio?! What is going on? <3",
