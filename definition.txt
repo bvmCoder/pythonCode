@@ -1,0 +1,18 @@
+how confident you are and your ability to write code and coding program
+
+num = 0
+while(num < 6) {
+	move to the left
+	move to the right
+	num += 1
+}
+
+
+wait for 2 hours
+open up the browsers
+repeat the above steps four times and use loop
+
+ 
+What is Class? Class is a Blue Print
+
+	Object is an instance of a circle
