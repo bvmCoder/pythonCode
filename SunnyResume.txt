@@ -1,0 +1,28 @@
+Developed the UI layout and front-end programming (HTML) for web application that matched requirements.
+Working in the Agile/Scrum development environment with frequently changing requirements and actively participated in scrum meetings and reviews.
+Bootstrap used along with AngularJS in creating the Responsive Web Application.
+Development of Client Side Validation techniques using JQuery and AngularJS Java Script.
+Designed the front-end applications, user interactive (UI) web pages using web technologies like Hybrid HTML5, XHTML, and CSS.
+REST - the standard HTTP request and response mechanism, simplifying implementation and providing for a looser coupling of the client and server.
+Extensive experience in HighCharts and D3.JS Bar Chart.
+Responsible for creating efficient design and developing User Interaction screens using HTML5 (new tags like audio, video, canvas) CSS3, JavaScript, jQuery, AJAX and JSON.
+Used JavaScript, jQuery for user interactions in pages. Creating a responsive web application integrating Twitter Bootstrap with AngularJS and media queries.
+Designed and developed custom jQuery components for the front end client side validations.
+Responsible to manipulate HTML5, CSS3 in jQuery as well as making the pages, dynamic using AJAX, JSON and XML.
+Modularized front end CSS and JS code.
+Developed a cross-device/cross-browser web application for real-time location sharing utilizing AngularJS, JavaScript API.
+Leveraged Lodash JavaScript functional programming without extending any built-in objects.
+Integrated the Java code (API) in JSP pages and responsible for setting up AngularJS framework for UI development.
+Developed html views with HTML5, CSS3, bootstrap and AngularJS.
+Implemented code according to coding standards and Created AngularJS Controller, which isolate scopes to perform operations.
+Developed custom directives, factories and Services in AngularJS.
+Extensively used Grunt and Gulp as an associate to NodeJS to establish the connectivity between database and client.
+Web Design (RWD) and did data manipulations to display data in company standard format in UI.
+Leveraged angular resources for all data access, encapsulating URLs and standardizing data access interfaces.
+Implemented faster mobile-friendly applications using Twitter Bootstrap framework.
+Tested cross browser functionality and fixed major layout bugs for supported browsers.
+Using git, Bit Bucket as source repository and controlling versions of the code.
+Wrote Jasmine unit tests using Karma to verify AngularJS modules and JavaScript utility routines.
+Deployed the application to Apache Tomcat server and tested the front end using Jasmine.
+Leveraged JIRA, Rally and flow doc to maintain the agile story points and burn downs.
+Environment: Core Java, WebStorm, AngularJS, HTML/HTML5, CSS3, JavaScript, JQuery, Bootstrap, REST Web Services, Sass, RWD, AJAX, JSON, XML, Maven, Star team, SQL, Junit, Grunt, Gulp and Jasmine, Rally, Flow Doc.
